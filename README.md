@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Request ID = 25092023/12670669
-
 <!--
 **uichi/uichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
